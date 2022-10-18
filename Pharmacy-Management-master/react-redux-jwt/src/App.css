@@ -1,0 +1,65 @@
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+.card-container.card {
+  max-width: 350px !important;
+  padding: 40px 40px;
+  align-items: left;
+}
+
+.card {
+  /*background-color: #ffffff;*/
+  /*background-image: url("https://media.istockphoto.com/vectors/hospital-blurred-background-medical-backdrop-with-molecules-blur-vector-id1165997279?k=20&m=1165997279&s=170667a&w=0&h=Xn16RW0ELUZaWxwjy_7IwgROikNOAkr9kHaGMq0Fpho=");
+  background-size: cover;
+  background-repeat: no-repeat;
+  */
+  
+  padding: 20px 25px 30px;
+  margin: 0 auto 25px;
+  margin-top: 50px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  /*backgr: blur(100px);*/
+}
+
+.btn{
+  background-color:rgb(65, 185, 129, 1);
+}
+.btn :hover{
+  background-color:rgb(25, 83, 56);
+}
+
+.navbar{
+  background-color:rgb(65, 185, 129, 1);
+}
+.bg-image{
+  background-image: url('./components/signup_image.jpeg');
+  
+}
+
+.profile-img-card {
+  width: 96px;
+  height: 96px;
+  margin: 0 auto 10px;
+  display: block;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+}
+.Sign_img{
+  text-align: right;
+}
+.bg-image2{
+  background-image: url('https://thumbs.dreamstime.com/b/pink-wedding-blossom-website-header-wide-soft-focus-background-delicate-apple-right-hand-side-plenty-copy-space-51691229.jpg');
+}
+.bg-image3{
+ /*background-image: url("https://png.pngtree.com/thumb_back/fw800/back_our/20190625/ourmid/pngtree-blue-medical-background-design-image_261002.jpg");
+  background-size: cover;*/
+  
+}
+/* .form-group{
+  padding-bottom: 5px;
+} */
